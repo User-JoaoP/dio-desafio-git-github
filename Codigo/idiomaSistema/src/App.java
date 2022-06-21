@@ -6,7 +6,7 @@ public class App {
         System.out.print("A linguagem da sua maquina está definida como: ");
     
         if("pt_BR".equals(lugar.toString())){
-            System.out.println("Brasileira");
+            System.out.println("Português do Brasil");
         }else{
             System.out.println(lugar);
         }
